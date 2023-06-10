@@ -189,3 +189,34 @@ margin-left: 70%;
 .button:hover{
     background-color:#fff;
 }
+
+@media (max-width:500px) {
+    .container{
+        height: 100%;
+        width: 100%;
+    }
+    .inner{
+        height: 80vh;
+
+        width: 90vw;
+    
+    }
+    .start-quote {
+ font-size: 30px;
+     }
+     #quotes {
+font-size: 15px;
+    }
+    .newQ{
+        transition:none;
+    }
+    .newQ:hover{
+        -ms-transform: none; /* IE 9 */
+    -webkit-transform: none; /* Safari 3-8 */
+    transform: none; 
+    }
+    .auther{
+        font-size: 10px;
+        font-weight: 400;
+    }
+}
