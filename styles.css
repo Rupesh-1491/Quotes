@@ -209,6 +209,7 @@ margin-left: 70%;
          margin-top:20px;
 font-size: 35px;
          line-height:2px;
+         word-spacing: 2px;
     }
     .newQ{
         transition:none;
@@ -221,5 +222,6 @@ font-size: 35px;
     .auther{
         font-size: 15px;
         font-weight: 500;
+        margin-left:60%;
     }
 }
