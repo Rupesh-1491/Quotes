@@ -212,10 +212,10 @@ font-size: 23px;
 /*          word-spacing: 2px; */
         
     }
-    .newQ{
+    #newQ{
         transition:none;
     }
-    .newQ:hover{
+    #newQ:hover{
         -ms-transform: none; /* IE 9 */
     -webkit-transform: none; /* Safari 3-8 */
     transform: none; 
