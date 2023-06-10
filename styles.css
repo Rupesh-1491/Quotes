@@ -207,8 +207,9 @@ margin-left: 70%;
      }
      #quotes {
          margin-top:20px;
-font-size: 12px;
-/*          line-height:2px; */
+font-size: 20px;
+         line-height:2px;
+         word-spacing: 2px;
         
     }
     .newQ{
