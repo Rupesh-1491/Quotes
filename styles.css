@@ -225,4 +225,7 @@ font-size: 23px;
         font-weight: 500;
         margin-left:60%;
     }
+    .button:hover{
+         background-color: rgba(0, 89, 255, 0.89);
+    }
 }
